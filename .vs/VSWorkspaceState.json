@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\sass\\layout"
   ],
-  "SelectedNode": "\\generic.html",
+  "SelectedNode": "\\elements.html",
   "PreviewInSolutionExplorer": false
 }
