@@ -1,12 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\Resume",
-    "\\assets\\sass\\base",
-    "\\assets\\sass\\components",
-    "\\assets\\sass\\layout"
+    "\\assets"
   ],
-  "SelectedNode": "\\assets\\Resume\\Krishan_Resume.docx",
+  "SelectedNode": "\\generic.html",
   "PreviewInSolutionExplorer": false
 }
